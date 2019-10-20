@@ -8,6 +8,11 @@ namespace TRPO_lab_GIT
 {
     class Program
     {
+        public static void Print()
+        {
+
+        }
+
         static void Main(string[] args)
         {
         }
