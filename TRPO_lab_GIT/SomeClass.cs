@@ -8,5 +8,6 @@ namespace TRPO_lab_GIT
 {
     class SomeClass
     {
+        public string Field { get; set; } = "Field";
     }
 }
