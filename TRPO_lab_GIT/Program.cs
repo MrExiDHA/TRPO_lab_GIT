@@ -10,6 +10,7 @@ namespace TRPO_lab_GIT
     {
         public static void Print()
         {
+            Console.WriteLine("Hello!");
             Console.WriteLine("Bye!");
         }
 
